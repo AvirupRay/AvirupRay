@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avirupray&label=Profile%20views&color=0e75b6&style=flat" alt="avirupray" /> </p>
 
-<p align="left"> <a href="https://twitter.com/avirupray4" target="blank"><img src="https://img.shields.io/twitter/follow/avirupray4?logo=twitter&style=for-the-badge" alt="avirupray4" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/avirup_ray10/" target="blank"><img src="https://img.shields.io/instagram/follow/avirup_ray10?logo=instagram&style=for-the-badge" alt="avirupray4" /></a> </p>
 
 - 🔭 I’m currently doing internship at Amuzi Sports **Web Developer**
 - 🌱 I’m currently learning **Tailwindcss**
