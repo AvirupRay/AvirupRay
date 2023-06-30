@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/avirupray4" target="blank"><img src="https://img.shields.io/twitter/follow/avirupray4?logo=twitter&style=for-the-badge" alt="avirupray4" /></a> </p>
 
 - 🔭 I’m currently doing internship at Amuzi Sports **Web Developer**
-
+- 🌱 I’m currently learning **Tailwindcss**
 - 📫 How to reach me **avirupraytun@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
