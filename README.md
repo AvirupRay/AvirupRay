@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/avirup-ray-18a96a1a0/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif)" alt="https://www.linkedin.com/in/avirup-ray-18a96a1a0/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/avirup-ray-18a96a1a0/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/avirup-ray-18a96a1a0/" height="30" width="40" /></a>
 <a href="https://instagram.com/avirupraytun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avirupraytun" height="30" width="40" /></a>
 <a href="https://twitter.com/avirupray4" target="blank"><img align="center" src="[https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif](https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif)" alt="avirupray4" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/avirup8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="avirup8" height="30" width="40" /></a>
