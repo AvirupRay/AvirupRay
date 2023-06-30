@@ -5,8 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avirupray&label=Profile%20views&color=0e75b6&style=flat" alt="avirupray" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avirupray" alt="avirupray" /></a> </p>
-
+[![@avirup's Holopin board](https://holopin.me/avirup)](https://holopin.io/@avirup)
 <p align="left"> <a href="https://twitter.com/avirupray4" target="blank"><img src="https://img.shields.io/twitter/follow/avirupray4?logo=twitter&style=for-the-badge" alt="avirupray4" /></a> </p>
 
 - 🔭 I’m currently doing internship at Amuzi Sports **Web Developer**
